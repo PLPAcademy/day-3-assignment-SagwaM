@@ -34,7 +34,7 @@ D) Create a new Flutter project
 
 A) flutter start
 B) flutter build
-C) flutter run✔️
+C) flutter run✔️ 
 D) flutter init
 
 
